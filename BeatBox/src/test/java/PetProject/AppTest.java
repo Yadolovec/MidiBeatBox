@@ -1,4 +1,4 @@
-package PetProjects;
+package PetProject;
 
 import static org.junit.Assert.assertTrue;
 
